@@ -1,4 +1,4 @@
-## ros-controls
+## ros_controls
 ****************************************
 Compilation Step：
 ```bash
